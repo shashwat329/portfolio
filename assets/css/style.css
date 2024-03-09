@@ -1880,3 +1880,12 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+.downloadresume a img{
+  filter: invert();
+  height: 30px;
+  width: auto;
+  margin: 12px;
+}
+header{
+  display: flex;
+}
